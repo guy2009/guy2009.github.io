@@ -1,7 +1,8 @@
 <style>  
 body {background:wheat;}  
 </style>  
-  
-# guy2009
+ 
+[Hello](hello.md)  [A propos](about.md)  
+ 
+# Home
 ![logo](logo.jpg)    
-[hello](hello.md)  
