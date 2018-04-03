@@ -1,6 +1,4 @@
-<style>  
-body {background:wheat;}  
-</style>  
+<link rel="stylesheet" type="text/css" href="css/style.css"/>  
   
 ## *Hello world*!
   
