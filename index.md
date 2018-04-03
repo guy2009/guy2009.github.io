@@ -1,4 +1,4 @@
 # guy2009
 
-![logo.jpg]()  
-[hello.mdguy2009/guy2009.github.md)  
+![logo](logo.jpg)    
+[hello](hello.md)  
