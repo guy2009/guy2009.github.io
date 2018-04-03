@@ -1,5 +1,6 @@
 <style>  
-body {background:peru;}  
+body {background:wheat;}  
 <style>  
 
-### Hello *world* check out my homepage!
+## Hello *world* check out my homepage!
+  
