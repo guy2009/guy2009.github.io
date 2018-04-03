@@ -1,5 +1,5 @@
-<style>
-body {background:peru;}
-<style>
+<style>  
+body {background:peru;}  
+<style>  
 
-Hello *world* check out my homepage!
+### Hello *world* check out my homepage!
